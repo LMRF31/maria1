@@ -13,7 +13,7 @@
         mi primer app . 
     </description>
 
-    <author maria restrepo
+    <author> maria restrepo
     </author>
      <icon src="iconos/icono36.png" gap:platform="android" gap:density="ldpi"/>
      <icon src="iconos/icono48.png" gap:platform="android" gap:density="ldpi"/>
