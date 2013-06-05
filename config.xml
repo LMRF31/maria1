@@ -15,5 +15,9 @@
 
     <author maria restrepo
     </author>
+     <icon src="iconos/icono36.png" gap:platform="android" gap:density="ldpi"/>
+     <icon src="iconos/icono48.png" gap:platform="android" gap:density="ldpi"/>
+     <icon src="iconos/icono72.png" gap:platform="android" gap:density="ldpi"/>
+    <icon src="iconos/icono128.png" gap:platform="android" gap:density="ldpi"/>
 
 </widget>
